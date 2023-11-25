@@ -1,0 +1,89 @@
+# BEC Incident Toolkit User Guide
+
+## Introduction
+Welcome to the User Guide for the BEC Incident Toolkit. This comprehensive resource is designed to assist individuals and organizations in effectively documenting and responding to Business Email Compromise (BEC) incidents.
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Navigating the Toolkit](#navigating-the-toolkit)
+- [Scenarios and Examples](#scenarios-and-examples)
+- [Appendices](#appendices)
+- [Conclusion](#conclusion)
+
+## Navigating the Toolkit
+
+### Initial Incident Details
+**Objective**: To record the initial discovery and basic details of the incident.
+- **Fields to Document**:
+  - `Date and Time of Discovery`
+  - `Initial Point of Contact`: Name and contact details.
+  - `Suspected Date and Time of Compromise`
+
+### Communication Evidence
+**Objective**: To document all forms of communication related to the scam.
+- **Fields to Document**:
+  - `Email Correspondence`: Include full headers and attachments.
+  - `Phone Call Records`: Date, time, numbers, and duration.
+  - `Other Communication Channels`: Texts, social media messages, etc.
+
+### Transaction Details
+**Objective**: To keep a record of financial transactions made during the incident.
+- **Fields to Document**:
+  - `Date and Time of Transaction`
+  - `Amount Transferred`
+  - `Account Numbers`: Both sender and receiver.
+  - `Bank Names and Locations`
+  - `Payment Instructions`
+
+### Network and System Indicators
+**Objective**: To identify any technical signs of the compromise.
+- **Fields to Document**:
+  - `Login Records`: Suspicious login timestamps and IP addresses.
+  - `System Changes`: Unusual activity or new installations.
+
+### Actor Information
+**Objective**: To collect details about the scammer, if known.
+- **Fields to Document**:
+  - `Scammer’s Contact Information`
+  - `Known Aliases`
+  - `Unique Language or Phrases Used`
+
+### Impact Assessment
+**Objective**: To evaluate the effect of the scam.
+- **Fields to Document**:
+  - `Financial Impact`
+  - `Operational Impact`
+  - `Reputational Impact`
+
+### Response Actions Taken
+**Objective**: To document actions taken post-discovery.
+- **Fields to Document**:
+  - `Internal Notifications`
+  - `External Notifications`
+  - `Containment Actions`
+
+[... Additional instructions for Sections 8-13 ...]
+
+## Scenarios and Examples
+
+### Example: Typical BEC Email Scenario
+- **Situation**: Receiving a suspicious email asking for a wire transfer.
+- **Documentation Steps**:
+  1. Record the time of email notice.
+  2. Document email details.
+  3. Note verification actions taken.
+
+### Hypothetical Scenario: Supplier Account Change
+- **Situation**: Finance department receives a request to update banking details.
+- **Documentation Steps**:
+  1. Log email receipt time.
+  2. Save all email communications.
+  3. Record the verification process.
+
+## Appendices
+- **Appendix A**: Reporting templates.
+- **Appendix B**: Contact list for enforcement and financial institutions.
+- **Appendix C-E**: Guidelines for evidence preservation and documentation.
+
+## Conclusion
+This guide aims to provide a step-by-step approach to documenting BEC incidents. It's a part of our commitment to enhancing cybersecurity awareness and preparedness.
